@@ -1,2 +1,5 @@
--e git://github.com/perrygeo/jenks.git#egg=jenks
--e git://github.com/perrygeo/jenks.git#egg=matplotlib
+numpy
+matplotlib
+tensorflow
+pandas
+
