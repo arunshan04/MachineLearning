@@ -2,4 +2,5 @@ numpy
 matplotlib
 tensorflow
 pandas
-
+sklearn
+mpl_toolkits
